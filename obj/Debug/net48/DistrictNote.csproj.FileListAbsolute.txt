@@ -1,0 +1,9 @@
+C:\Users\chris\source\repos\DistrictNote\DistrictNote\obj\Debug\net48\DistrictNote.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\DistrictNote\DistrictNote\obj\Debug\net48\DistrictNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\DistrictNote\DistrictNote\obj\Debug\net48\DistrictNote.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\DistrictNote\DistrictNote\obj\Debug\net48\DistrictNote.AssemblyInfo.cs
+C:\Users\chris\source\repos\DistrictNote\DistrictNote\obj\Debug\net48\DistrictNote.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\DistrictNote\DistrictNote\bin\Debug\net48\DistrictNote.dll
+C:\Users\chris\source\repos\DistrictNote\DistrictNote\bin\Debug\net48\DistrictNote.pdb
+C:\Users\chris\source\repos\DistrictNote\DistrictNote\obj\Debug\net48\DistrictNote.dll
+C:\Users\chris\source\repos\DistrictNote\DistrictNote\obj\Debug\net48\DistrictNote.pdb
